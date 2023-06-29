@@ -12,3 +12,13 @@ print(5//2)
 print(6**2)
 # Остаток от деления
 print(5 % 2)
+
+# Присвоение переменной какой-либо операции
+number = 20
+number += 5
+number -= 2
+number *= 2
+number //= 2
+number **= 2
+number /= 5
+print(number) # 105.8
