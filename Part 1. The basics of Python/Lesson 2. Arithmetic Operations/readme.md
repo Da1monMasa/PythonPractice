@@ -63,3 +63,14 @@ number **= 2
 number /= 5
 print(number) # 105.8
 ```
+### Округление
+Функция round так же принимает число цифр после запятой
+```
+first_number = 4.95
+second_number = 0.00005
+print(round(first_number + second_number, 2))
+print(round(4.0001 + 0.2, 2))
+print(round(4.5))
+print(round(4.49))
+print(round(4.51))
+```
