@@ -1,4 +1,4 @@
-# Operations with list in Python
+# Operations with 'list' in Python
 
 Интерфейс программы:
 
